@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+.tb {
+    color: #fff;
+}
+
+#head {
+    height: 91px;
+background-color: #008374;
+display: flex;
+flex-direction: row;
+align-items: center;
+}
+
+#logo {
+    margin-left: 146px;
+    font-size: 40px;
+}
+
+.bt0 {
+    font-size: 35px;
+}
+
+#h1 {
+margin-left: 610px;
+margin-right: 70px;
+}
+
+#h2 {
+    margin-right: 70px;
+}
+
+/* intro */
+
+#intro {
+    background-color: #23a092;
+    display: flex;
+    align-items: center;
+}
+
+#txti {
+    margin-left: 146px;
+}
+
+#ti {
+    font-size: 36px;
+}
+
+#pi {
+    width: 550px;
+    font-size: 30px;
+}
+
+#ii {
+    width: 499px;
+    height: 499px;
+    margin-left: 240px;
+}
+
+/* corpo */
+
+#inf {
+    margin-top: -50px;
+    display: flex;
+    margin-left: 145px;
+}
+
+.inf {
+    border-color: black;
+    border: 1px solid;
+    background-color: #fff;
+    width: 230px;
+    height: 205px;
+    margin-right: 100px;
+}
+
+
+
+
+
+
+
+/* rodape */
+
+#rodape {
+    height: 313px;
+    background-color: #008374;
+    margin-top: 1986px;
+    display: flex;
+    align-items: center;
+}
+
+
+#rt {
+    margin-left: 241px;
+}
+
+.bt1 {
+    font-size: 35px;
+}
+
+#rip {
+    font-size: 26px;
+    margin-left: 450px;
+    width: 440px;
+    margin-bottom: 15px;
+}
+
+#cdr {
+    width: 416px;
+    height: 43px;
+    margin-left: 450px;
+    border-radius: 10px;
+    background-color: #e8e8e8;
+}
+
+#brt {
+font-size: 24px;
+width: 130px;
+height: 43px;
+border-radius: 10px;
+background-color: #fff;
+margin-left: 3px;
+}
+
+#rrp{
+    display: flex;
+}
